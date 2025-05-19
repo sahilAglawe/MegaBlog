@@ -4,7 +4,7 @@ import Container from "./container/Container";
 import Logo from "./Logo";
 import Signup from "../Signup"
 import Login from "../Login"
-import post from "../post"
+
 
 export {
     Header,
@@ -15,5 +15,5 @@ export {
     RTE,
     Signup,
     Login,
-    post
+    
 }
